@@ -1,0 +1,10 @@
+# Target code (third-party) and hunt results (undisclosed vulnerabilities)
+target/
+findings/
+
+# Foundry artifacts if anything is run at the root
+out/
+cache/
+
+# macOS
+.DS_Store
